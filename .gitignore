@@ -3,4 +3,5 @@
 .project
 .settings/
 .iml
+.DS_Store 
 /target/
