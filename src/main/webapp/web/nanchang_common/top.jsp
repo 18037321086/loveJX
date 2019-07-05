@@ -427,7 +427,7 @@
                 <div id="img-content">
 
                     <h2 class="rich_media_title" id="activity-name">
-                        【<%=cityName%>站】仁和爱心公益行——只需229元，458元乳铁蛋白粉拿到手！还能为福利院儿童送健康！
+                        【<%=cityName%>站】仁和爱心公益行——你购买仁和康健多少营养品，我们就为你捐献多少给福利院儿童！每个人献出一点爱，让这个世界充满爱！
                     </h2>
                     <div id="meta_content" class="rich_media_meta_list">
                         <span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
@@ -581,7 +581,7 @@
                         <br/>
 
                         <p>
-                            <img src="../pic/WechatIMG149.jpeg"
+                            <img src="../pic/nanchang_huodong.jpg"
                                  width="640"/>
                         </p>
                         <section
